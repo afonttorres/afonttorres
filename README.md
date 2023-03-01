@@ -56,6 +56,9 @@ I'm very excited about this new world I'm getting into and looking fordward to s
             <td>Angular</td>
             <td>Express.js</td>
         </tr>
+    <tr>
+            <td>Vue</td>
+        </tr>
     </tbody>
 </table></td>
         </tr>
