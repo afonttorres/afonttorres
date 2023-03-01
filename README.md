@@ -38,6 +38,10 @@ I'm very excited about this new world I'm getting into and looking fordward to s
             <td>TypeScript</td>
             <td></td>
         </tr>
+        <tr>
+            <td>Python</td>
+            <td></td>
+        </tr>
 </tbody>
   </table></td>
             <td> <table>
@@ -58,6 +62,7 @@ I'm very excited about this new world I'm getting into and looking fordward to s
         </tr>
     <tr>
             <td>Vue</td>
+            <td>Flask</td>
         </tr>
     </tbody>
 </table></td>
